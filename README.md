@@ -1,6 +1,7 @@
 # PROYECTO BD2
 
 
+![image](https://github.com/SaraLuciaLozanoRueda/proyectoBD2/assets/151969212/ac047743-7775-490d-b814-49f3449d049b)
 
 
 
